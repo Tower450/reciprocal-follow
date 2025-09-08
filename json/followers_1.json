@@ -1,0 +1,29 @@
+{
+  "relationships_followers": [
+    {
+      "string_list_data": [
+        {
+          "value": "alice",
+          "timestamp": 1660000000
+        }
+      ]
+    },
+    {
+      "string_list_data": [
+        {
+          "value": "bob",
+          "timestamp": 1660001000
+        }
+      ]
+    },
+    {
+      "string_list_data": [
+        {
+          "value": "charlie",
+          "timestamp": 1660002000
+        }
+      ]
+    }
+  ]
+}
+
