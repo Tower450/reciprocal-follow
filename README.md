@@ -35,12 +35,12 @@ Go HTML and JSON
 
 4. Since instagram official download gives you HTML use this command
    ```bash
-   go run mutual_follow.go
+   go run reciprocal_follow.go
    ```
   ***if you have json for a reason***
  
   ```bash
-  go run mutual_follow_json.go
+  go run reciprocal_follow_json.go
   ```
 
 Python
@@ -50,5 +50,5 @@ pip install instaloader beautifulsoup4
 ```
 
 ```bash
-python3 mutual_follow.py
+python3 reciprocal_follow.py
 ```
