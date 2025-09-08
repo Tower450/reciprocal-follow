@@ -37,13 +37,11 @@ Go HTML and JSON
    ```bash
    go run mutual_follow.go
    ```
-  *** if you have json for a reason ***
+  ***if you have json for a reason***
  
   ```bash
   go run mutual_follow_json.go
   ```
-
-Python
 
 Python
 
