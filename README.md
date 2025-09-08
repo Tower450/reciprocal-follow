@@ -43,7 +43,11 @@ Go HTML and JSON
   go run reciprocal_follow_json.go
   ```
 
-Python
+# Web app
+
+See repostiory: https://github.com/Tower450/ReciprocalFollowersApp
+
+# Python (deprecated)
 
 ```bash
 pip install instaloader beautifulsoup4
